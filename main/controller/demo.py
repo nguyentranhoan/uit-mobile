@@ -12,3 +12,15 @@ class DemoController:
     @get("/?")
     def list(self):
         return self.demo_service.list()
+
+    @get("/?")
+    def list(self):
+        return self.demo_service.list()
+
+    @get("/?")
+    def list(self):
+        return self.demo_service.list()
+
+    @get("/?")
+    def list(self):
+        return self.demo_service.list()
