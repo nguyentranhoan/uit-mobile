@@ -1,9 +1,0 @@
-3f192bd3908a2fadbee93891c526f2cb  usr/include/sqlite3.h
-ae192c2f00d1bfa7dcc192190f0192e4  usr/include/sqlite3ext.h
-16aa377b458f30c3f4a34edf3e2b9bd3  usr/lib/x86_64-linux-gnu/libsqlite3.a
-8b7a08aee4eeba1e249cb9a494a5d3df  usr/lib/x86_64-linux-gnu/libsqlite3.la
-d3b64387d902f909eb34ee19d4040302  usr/lib/x86_64-linux-gnu/pkgconfig/sqlite3.pc
-7fe30ed0df54e0f78ad4fe5304589682  usr/share/doc/libsqlite3-dev/changelog.Debian.gz
-d8c840bf8b9ddd904eb83980c9466b90  usr/share/doc/libsqlite3-dev/changelog.gz
-5fe507fbaf91dbaee710e64801e2e7a2  usr/share/doc/libsqlite3-dev/changelog.html.gz
-be64db3e095486e5e105652c51199358  usr/share/doc/libsqlite3-dev/copyright
