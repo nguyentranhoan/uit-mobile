@@ -1,5 +1,5 @@
 pip==19.0.3
-wheel==0.33.6
+wheel==0.38.1
 setuptools==40.8.0
 kombu
 sqlalchemy
